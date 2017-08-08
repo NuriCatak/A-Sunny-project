@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "253394772724",
+    "firebase_url": "https://a-sunny-project.firebaseio.com",
+    "project_id": "a-sunny-project",
+    "storage_bucket": "a-sunny-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253394772724:android:f2db7a92bebd52f2",
+        "android_client_info": {
+          "package_name": "engin.persistence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253394772724-kiqmm7ca5t7mlfhf5rsnm9ikodo0m0f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXJyK_UmO9PHUNDqUIk_DjLkQMzJQsPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
